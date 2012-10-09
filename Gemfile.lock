@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/jcasimir/draper.git
-  revision: f48fee15f4cc251723bbd8d826ec00c25b54c169
+  remote: git://github.com/drapergem/draper.git
+  revision: 16140fed55f57d18f8b10a0789dd1fa5b3115a8d
   specs:
-    draper (0.17.0)
+    draper (0.18.0)
       actionpack (~> 3.2)
       activesupport (~> 3.2)
 
